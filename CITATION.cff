@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AI - Lois de comportement"
+message: "Si vous utilisez ce dépôt, merci de citer les auteurs."
+type: software
+authors:
+  - family-names: Akkad
+    given-names: Ahmed
+  - family-names: Mnaouer
+    given-names: Abdelkhalek
+  - family-names: Figueiredo Rocha
+    given-names: Felipe
+license: Apache-2.0
