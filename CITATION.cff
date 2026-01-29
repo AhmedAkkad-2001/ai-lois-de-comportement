@@ -9,4 +9,7 @@ authors:
     given-names: Abdelkhalek
   - family-names: Figueiredo Rocha
     given-names: Felipe
+
+repository-code: "https://github.com/AhmedAkkad-2001/ai-lois-de-comportement"
+
 license: Apache-2.0
